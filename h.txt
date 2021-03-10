@@ -1,0 +1,1 @@
+to just check whelther build is happening or not after a commit to the git repo
